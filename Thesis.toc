@@ -1,0 +1,9 @@
+\contentsline {chapter}{Title Page}{\nbi i}{Doc-Start}
+\contentsline {chapter}{Authorization Page}{\nbi ii}{Doc-Start}
+\contentsline {chapter}{Signature Page}{\nbi iii}{Doc-Start}
+\contentsline {chapter}{Acknowledgments}{\nbi iv}{chapter*.1}
+\contentsline {chapter}{Table of Contents}{\nbi v}{chapter*.2}
+\contentsline {chapter}{List of Figures}{\nbi vi}{chapter*.3}
+\contentsline {chapter}{List of Tables}{\nbi vii}{chapter*.4}
+\contentsline {chapter}{Abstract}{\nbi viii}{chapter*.4}
+\contentsline {chapter}{{Chapter 1}\hspace {1em}First Chapter}{1}{chapter.1}
